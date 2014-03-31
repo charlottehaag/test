@@ -2,7 +2,7 @@
 <html>
     <head>
 
-        <title>D&eacute;limiamMiamdezedz</title>
+        <title>D&eacute;limiam</title>
 
 		<!--<link rel="stylesheet" type="text/css" href="commun/style/stylePage.css" />-->
 
