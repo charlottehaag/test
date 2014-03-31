@@ -1,6 +1,0 @@
-modifications depuis la soutenance :
--Scrolling automatique vers la partie pertinente de la page 
-chargée.
--Possiblité d'enchaîner les commandes même sans l'implémentation 
-du système de paiement (utile pour tester le site).
--Problème de prix entre le site partenaire et le site client résolu.
