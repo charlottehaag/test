@@ -1,0 +1,46 @@
+/* Style the thumbnails */
+.pika-thumbs {
+	padding: 0 16px;
+	display:none
+}
+/* The stage is the wrapper. The image fills 100% the height of the stage */
+.pika-stage, .pika-textnav {
+	width: 100%; /*ESPACE ENTRE FLECHES*/
+}
+.pika-stage {
+	position: relative;
+	background: none;
+	border: 0 px solid #e5e5e5;
+	text-align:center;
+	height:499px; /*HAUTEUR DU SLIDE*/
+}
+.pika-stage img {
+	height:100%;
+}
+.pika-stage .caption {
+	position: absolute;
+	background: #FFF;
+	background: rgba(255,255,255,0.75);
+	border: 0 px solid #141414;
+	font-size: 13px;
+	color: none;
+	padding: 10px;
+	text-align: right;
+	bottom: 50px;
+	right: 10px;
+}
+.pika-stage .caption p {
+	padding: 0;
+	margin: 0;
+	line-height: 14px;
+}
+
+/*for the tool tips*/
+.pika-tooltip {
+	font-size:12px;
+	position:absolute;
+	color:white;
+	padding:3px;
+	background-color: rgba(0,0,0,0.7);
+	border:3px solid black;
+}
